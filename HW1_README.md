@@ -27,7 +27,7 @@ make -j12 <clear all>
 make modules
 make modules_install install
 reboot
-uname -r  //for checking kernel version
+uname -r  //for checking kernel version, previous version was 5.4.3+ ?
 ```
 
 ### 4. Patch setup + New Files
